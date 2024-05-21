@@ -27,3 +27,5 @@ Y la aplicación desplegará una lista de las conversiones realizadas en la sesi
 
 ![image](https://github.com/HeidiQU/ConvertidorMonedasCh/assets/158237749/ded80b4d-c9af-4d87-acd4-0e9a11dabd38)
 
+## Autoria
+
