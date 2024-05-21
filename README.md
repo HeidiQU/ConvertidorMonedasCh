@@ -1,9 +1,12 @@
-# ConvertidorMonedasCh
-Convertidor de Monedas Challenge Java Back End Heidi Quiñones ONE-G6
+<h1 align="center"> <em> Desafío Convertidor Monedas </em> </h1>
 
-Convertidor de Monedas utilizando la API ExchangeRate
+<p align="center"> Java Back End ONE-G6 - Heidi Quiñones <p>
+
+
 
 ## Descripción
+
+Convertidor de Monedas utilizando la API ExchangeRate
 
 La aplicación presenta un menú con las opciones de conversión que ofrece
 
@@ -27,5 +30,7 @@ Y la aplicación desplegará una lista de las conversiones realizadas en la sesi
 
 ![image](https://github.com/HeidiQU/ConvertidorMonedasCh/assets/158237749/ded80b4d-c9af-4d87-acd4-0e9a11dabd38)
 
-## Autoria
+## Desarrollado por:
+
+Heidi Quiñones U. ONE-G6
 
